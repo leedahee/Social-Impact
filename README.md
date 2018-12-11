@@ -1,8 +1,8 @@
 # Social-Impact
-For successful implementation of innovation program and subsequent use of a facility in Flint area, I wanted to figure out estimated needs around that area. With assumption that people who are interested in technology, innovation, or entrepreneurship would join a certain group, which is biggest group at 'MeetUp' regarding those interests, I grabbed information about location of members and visualized the distribution of them. 
+For successful implementation of innovation program and subsequent use of a facility in Flint area, I wanted to estimate needs around that area. With assumption that people who are interested in technology, innovation, or entrepreneurship would join a certain group which is a biggest group at MeetUp regarding those interests, I gathered geographic information of members and visualized them. 
 
 ### Visualize the distribution of members(red) and event(green)
-Red dot represents each individuals in the group and green does event. What we can see here is events are held downtown Flint and substantial amount of people who live outside of Flint visit or have desire to join the event. 
+Red dot represents each individuals in the group and green does events. We can observe that the events are held downtown Flint and substantial amount of people who live outside of Flint. Many people have traveled to Flint to join the event. 
 <img src="https://cloud.githubusercontent.com/assets/24194372/23112786/2123d82a-f701-11e6-80f1-21f46560a685.jpg" width="500">
 <img src="https://cloud.githubusercontent.com/assets/24194372/23112791/2b6bc2d4-f701-11e6-882b-f205da4f03a0.jpg" width="500">
 <img src="https://cloud.githubusercontent.com/assets/24194372/23112794/2d62d096-f701-11e6-9afb-893c5d7070b3.jpg" width="500">
